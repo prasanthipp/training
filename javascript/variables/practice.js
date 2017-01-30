@@ -31,7 +31,7 @@ console.log(s);
 var p="This is a paragraph";
 console.log('<p>' +  p + '</p>');
 
-var tweet = "hello world!";
+var tweet = "hello git!";
 var count = 0;
 count = count + 10;
 //tweet = tweet + count;
